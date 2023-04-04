@@ -1,0 +1,65 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+h1{
+  color: red;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  height: 500px;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 30px;
+}
+.card-img-top{
+  margin: 10px;
+  width: 160px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  border-radius:10px 10px auto 10px;
+}
+.card-img-top{
+  border-radius: 30px;
+}
+
+#izuku{
+  border-radius: 10px;
+  color:black;
+}
+#shoto{
+  background-color: red;
+  color: #fff;
+  border-radius: 10px;
+}
+
+#kiri{
+  background-color: burlywood;
+  border-radius: 10px;
+}
+
+#dark{
+  background-color: blueviolet;
+  border-radius: 10px;
+  color: gold;
+}
+#might{
+  background-color:blue;
+  color: #fff;
+  border-radius: 10px;
+}
+
+#mirio{
+  background-color: goldenrod;
+  color: blue;
+  border-radius: 10px;
+}
+
