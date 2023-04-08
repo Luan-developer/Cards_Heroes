@@ -1,6 +1,4 @@
 # Cards_Heroes
-![image](https://user-images.githubusercontent.com/129342644/230695523-294d80f3-53eb-4971-b5c7-6745c152ebed.png)
-
 
 Tecnologias usadas no projeto:
 
